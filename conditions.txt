@@ -1,0 +1,181 @@
+Each team will have 15 players, out of which:
+2-WicketKeepers
+2-Domestic Allrounders
+2-Domestic Bowlers
+2-International Allrounders
+2-International Bowlers
+1-Domestic Batsman
+1-International Batman
+1-Indian Capped Batsman
+1-Indian Capped Bowler
+1-Indian Capped Allrounder
+
+The Players in each pot are:
+WicketKeepers:
+Sam Billings
+KL Rahul
+Parthiv Patel
+De Kock
+B McCullum
+W Saha
+J Butler
+H Klaasen
+R Uthappa
+D Kartik
+A Tare
+Ishan Kishan
+MS Dhoni
+N Jagadeesan
+Rishabh Pant
+Naman Ojha
+
+
+Domestic Allrounders:
+P Negi
+Bipul Sharma
+D Hooda
+S Gopal
+K Gowtham
+S Binny
+S Gill
+N Rana
+K Pandya
+Rahul Tewatia
+Vijay Shankar
+Gurkeerat Singh
+M Kalra
+I Jaggi
+M Lormor
+A Singh
+
+Domestic Bowlers:
+M Ashwin
+K Kejrolia
+Sandeep Sharma
+B Thampi
+S Kaul
+Sran
+J Unadkat
+D Kulkarni
+K Nagarkoti
+S Mavi
+V Kumar
+M Markande
+P Sangwan
+R Chahar
+KM Asif
+Harshal Patel
+Avesh Khan
+Shahbaz Nadeem
+
+International Allrounders:
+M Ali
+C Grandhomme
+C Woakes
+C Brathwaite
+Shakib Al Hasan
+M Stoinis
+Ben Stokes
+S Narine
+A Russell
+JP Duminy
+B Cutting
+K Pollard
+Dwayne Bravo
+Shane Watson
+Chris Morris
+Glenn Maxwell
+Dan Christian
+
+International Bowlers:
+T Southee
+B Stanlake
+C Jordan
+M Nabi
+Rashid Khan
+A Tye
+Mujeeb Z
+B Laughlin
+J Archer
+M Johnson
+T Curran
+M Mcleanaghan
+Pat Cummins
+M Rahman
+Imran Tahir
+Santner
+Mark Wood
+Kagiso Rabada
+Trent Boult
+
+
+Domestic Batsman:
+Mandeep Singh
+M Vohra
+Sarfaraz K
+S Baby
+M Tiwary
+M Agarwal
+R Tripathi
+S Lad
+S Tiwary
+S Yadav
+Kshitiz Sharma
+Prithvi Shaw
+
+International Batsman:
+C Anderson
+De Villiers
+K Williamson
+A Hales
+A Finch
+D Miller
+C Gayle
+D Short
+C Lynn
+E Lewis
+Faf du Plessis
+Jason Roy
+Colin Munro
+
+Indian Capped Batsman:
+V Kohli
+M Pandey
+S Dhawan
+K Nair
+S Samson
+A Rahane
+Rohit Sharma
+Suresh Raina
+Kedar Jadhav
+Ambati Rayudu
+Shreyas Iyer
+Gautam Gambhir
+
+Indian capped bowlers:
+M Siraj
+U Yadav
+Y Chahal
+B Kumar
+M Sharma
+K Yadav
+P Chawla
+Jasprit Bumrah
+Harbhajan Singh
+Shardul Thakur
+Deepak Chahar
+Mohamed Shami
+Amit Mishra
+
+Indian capped allrounder:
+Anirudha Joshi
+Pavan DP
+W Sundar
+Y Pathan
+Yuvraj Singh
+R Ashwin
+Axar Patel
+Hardik Pandya
+Ravindra Jadeja
+Karn Sharma
+Jayant Yadav
